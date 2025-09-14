@@ -1,0 +1,5 @@
+For this activity, I learned many basic but important things about Django. I found out that Django uses template inheritance, which helps avoid repeating the same code and makes it easier to keep all pages in the same style. At first, it was a little hard for me to understand, but after practicing, I saw how useful it is for building websites.
+
+I also learned how to set up views and URLs. This helped me understand better how the MVC or Model-View-Template structure works in Django. The model is for handling data, the view is for the logic, and the template is for what the user sees. This made me realize how the parts of a web app work together.
+
+Another lesson was setting up a virtual environment. I now know it is important because it manages dependencies. Overall, this task connected theory with real practice.

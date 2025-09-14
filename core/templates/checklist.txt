@@ -1,0 +1,8 @@
+ ✅ Environment Checklist
+- [/] Python 3.x installed  
+- [/] Django installed (pip install django)  
+- [/] Virtual environment created and activated  
+- [/] django-admin startproject successful  
+- [/] App created and registered in INSTALLED_APPS  
+- [/] Templates working with inheritance  
+- [/] GitHub repo created & project pushed 
